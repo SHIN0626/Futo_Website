@@ -2,7 +2,7 @@ body{
     background-color: wheat;
 }
 
-/* 山田担当分 */
+/* y担当分 */
 .home {
     position: relative;
 }
@@ -22,7 +22,7 @@ body{
     width: 100%;
 }
 
-/* 兼松担当分 */
+/* k担当分 */
 .explanation{
   text-align: center;
 }
@@ -37,7 +37,7 @@ body{
   box-sizing: border-box;
 }
 
-/* 清水担当分 */
+/* s担当分 */
 .sample1 {
     display: inline-block;        /* インラインブロック要素にする */
     background-color:  #ccc;      /* 背景色指定 */
